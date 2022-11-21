@@ -8,6 +8,7 @@ authors = ["ldquan1996 <luongdoanhquan1996@gmail.com>"]
 python = "^3.10"
 hvplot = "^0.8.1"
 jupyterlab = "^3.5.0"
+panel = "^0.14.1"
 
 [tool.poetry.dev-dependencies]
 
