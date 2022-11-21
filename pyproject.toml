@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "co2_dasboard"
+version = "0.1.0"
+description = "CO2_dashboard dependecies"
+authors = ["ldquan1996 <luongdoanhquan1996@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+hvplot = "^0.8.1"
+jupyterlab = "^3.5.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
