@@ -1,4 +1,5 @@
 ## CO2-Dasboard
+This project is to get started with python dashboard. I follow Thu-Vu's repositories to build this project by myself in WSL2./
 
 # Install environment
 This repo is for CO2-dasboard project./
